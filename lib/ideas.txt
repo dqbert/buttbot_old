@@ -1,0 +1,6 @@
+-multiple servers
+-polls
+-/purge [# to purge]
+-text to speech keywords
+-voice channel commands
+-post shitpostbot posts
