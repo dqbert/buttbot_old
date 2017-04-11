@@ -1,2 +1,2 @@
 # buttbot
-A discord bot created by dqbert called buttbot.
+a bot for butts
