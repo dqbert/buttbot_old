@@ -1,0 +1,15 @@
+- polls
+- text to speech keywords
+- voice channel commands
+- post shitpostbot posts
+- create text channels
+- create/edit/delete roles
+- role ownership
+- SQL database usage for things stored in files
+- change prefix
+- notify when new commands are added only once
+- bot reactions
+- find yugioh cards
+- use reactions as buttons
+- make edit embeds correctly mention
+- maybe embed the edit to a user's message somehow
