@@ -1,2 +1,2 @@
 # buttbot
-a bot for butts
+go here https://github.com/dqbert/buttbot
